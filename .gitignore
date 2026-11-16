@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+
+# Ambiente e editor
+.env
+.streamlit/secrets.toml
+.vscode/
+.idea/
+.DS_Store
+
+# Documentos usados em teste
+*.pdf
+texto_formatado.md
